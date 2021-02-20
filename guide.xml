@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SPORTV">
-    <display-name lang="pt">SPORTV SD</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="SPORTV SD">
+    <display-name lang="pt">Sportv SD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
   <channel id="SPORTV HD">
-    <display-name lang="pt">SPORTV HD</display-name>
-    <icon src="../canais/tvcamara-barreiras.gif" />
-    <url>http://www.lineup.net.br</url>
+    <display-name lang="en">SPORTV HD</display-name>
+    <url>http://www.oi.com.br</url>
   </channel>
 </tv>
