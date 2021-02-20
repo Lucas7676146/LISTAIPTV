@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SPORTV SD">
-    <display-name lang="pt">Sportv SD</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <display-name lang="pt">SPORTV SD</display-name>
+    <url>http://www.vivo.com.br</url>
   </channel>
-  <channel id="SPORTV HD">
+  <channel id="SporTV HD">
     <display-name lang="en">SPORTV HD</display-name>
     <url>http://www.oi.com.br</url>
   </channel>
